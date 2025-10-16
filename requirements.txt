@@ -9,3 +9,4 @@ numpy==1.26.4
 gunicorn==22.0.0
 setuptools>=70.0
 wheel
+Cython
